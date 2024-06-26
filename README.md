@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 🔭  I'm currently working on developing my skills in Python, C/C++, embedded systems, and IOT technologies.
 - 🌱 I’m currently learning about how embedded system useful in Automotvie Industry
 - 👯 I’m looking to collaborate on projects related IOT and Embedded Systems in Automotive
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about my experience with embedded systems, microcontrollers, and VLSI technology.
 - 📫 You can find me on LinkedIn at "Soham Gabani" or send me an email at "sohambhaigabani@gmail.com".
 - 😄 Pronouns: He / Him
